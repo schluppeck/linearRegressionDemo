@@ -1,4 +1,4 @@
-# Linear regression with ``julia``  
+# Linear regression with ``julia``
 
 A simple interactive Jupyter notebook that shows the connection between a design matrix, beta weights and an ordinary least squares (OLS) model fit.
 
@@ -17,5 +17,6 @@ notebook()
 # step through using play button
 ```
 
-
-![preview](preview.png)
+<div alignment="center">
+  <img src="preview.png" width="70%">
+</div>
